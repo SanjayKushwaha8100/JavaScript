@@ -1,0 +1,11 @@
+.pClass{
+    background-color: black;
+    color: rgb(203, 26, 26);
+    border:blueviolet;
+    border: 2px;
+    border-color: burlywood;
+}
+
+.newClass{
+    color:blue;
+}
